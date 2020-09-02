@@ -3,7 +3,6 @@
 describe('Feature Test:', function(){
   var plane;
   var airport;
-  var weather;
 
   beforeEach(function(){
     plane = new Plane();
